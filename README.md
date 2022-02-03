@@ -1,16 +1,21 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=jl118&color=8DA59C)
+## Welcome!
 
-<!--
-**jl118/jl118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jennifer, a MERN developer with a Bachelor's in Communication and a certificate in Full Stack Web Development through UNC Chapel Hill. I am passionate about accessibility and creating engaging and intuitive applications. 
 
-Here are some ideas to get you started:
+- 🌱 I'm Currently learning C# and Python
+- 💻 I’m currently working on my personal website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+If you have any questions about me or my work, you can contact me here:
+
+- 📫 Email: jen.liebelt@gmail.com 
+- 👔 LinkedIn: https://www.linkedin.com/in/jennifer-liebelt/
+- 🐥 Twitter: https://twitter.com/jenniferliebelt
+
+
+---
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=jl118&show_icons=true&theme=gotham&hide=issues,contribs) 
