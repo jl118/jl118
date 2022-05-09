@@ -4,7 +4,7 @@
 
 I'm Jennifer, a MERN developer with a Bachelor's in Communication and a certificate in Full Stack Web Development through UNC Chapel Hill. I am passionate about accessibility and creating engaging and intuitive applications. 
 
-- 🌱 I'm Currently learning C# and Python
+- 🌱 I'm Currently learning C# and Java
 - 💻 I’m currently working on my personal website
 
 ### Contact
