@@ -13,7 +13,6 @@ If you have any questions about me or my work, you can contact me here:
 
 - 📫 Email: jen.liebelt@gmail.com 
 - 👔 LinkedIn: https://www.linkedin.com/in/jennifer-liebelt/
-- 🐥 Twitter: https://twitter.com/jenniferliebelt
 
 
 ---
